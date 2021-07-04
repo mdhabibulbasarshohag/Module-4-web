@@ -43,23 +43,20 @@ h1 {
 }
 
 .top-banner {
-    background-image: url("/img/dream-bg.png");
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
-    height: 100px;
 }
 
 .dream-big {
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    height: 100px;
 }
 
 .experiences {
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    height: 100%;
 }
 
 .text-experiences {
