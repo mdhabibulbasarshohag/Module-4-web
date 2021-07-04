@@ -52,12 +52,14 @@ h1 {
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    height: 100px;
 }
 
 .experiences {
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    height: 100%;
 }
 
 .text-experiences {
